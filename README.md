@@ -12,6 +12,8 @@ This page is a ToDo List where you can add and delete items on the list and also
 
 \*Implement responsiveness for tablet and mobile screens
 
+## GitHub Pages - https://ibeo-gh.github.io/TODO-List-Project/
+
 ## Screenshot of how it looks
 
 <img src="/screenshots/screenshot1.png" alt="image" />
