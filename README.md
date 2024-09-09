@@ -14,7 +14,11 @@ This page is a ToDo List where you can add and delete items on the list and also
 
 \*Instructions to create the list -
 \*Type your todo and click on the plus button to add.
-\*You can add as many items as you want and also delete whatever you dont want anymore using the trash button. \* The mark button is used to mark completed items on the list.
+
+\*You can add as many items as you want and also delete whatever you dont want anymore using the trash button.
+
+\* The mark button is used to mark completed items on the list.
+
 \*The displayed todo list can be categorized into all, completed, and uncompleted using the drop down button.
 
 ## GitHub Pages - https://ibeo-gh.github.io/TODO-List-Project/
