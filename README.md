@@ -12,7 +12,7 @@ This page is a ToDo List where you can add and delete items on the list and also
 
 \*Implement responsiveness for tablet and mobile screens
 
-\*Instructions to create the list -
+Instructions to create the list -
 
 \*Type your todo and click on the plus button to add.
 
