@@ -44,6 +44,7 @@ function addTodo(event) {
   todoList.appendChild(todoDiv);
 }
 
+// delete todolist
 function deleteCheck(e) {
   const item = e.target;
   // Delete the todo button by clicking the trash btn
@@ -51,7 +52,7 @@ function deleteCheck(e) {
     const todo = item.parentElement;
     //Animation
     todo.classList.add("fall");
-    todo.addEventListener("ttransitionend", function () {
+    todo.addEventListener("transitionend", function () {
       todo.remove();
     });
   }
